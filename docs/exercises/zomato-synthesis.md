@@ -1,6 +1,6 @@
 # Zomato Interview Synthesis — Wk 1 Extended Exercise
 
-Student Name: Rishu Kumar Batch: Aug’26 (Batch 2) Date Submitted: [13 08 2026] GitHub file URL: [Paste your GitHub file URL after committing]
+Student Name: Rishu Kumar Batch: Aug’26 (Batch 2) Date Submitted: [13 08 2026] GitHub file URL: [https://github.com/rishu704/Upivot-Case-study/edit/main/docs/exercises/zomato-synthesis.md]
 
 ---
 

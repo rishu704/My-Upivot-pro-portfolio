@@ -175,6 +175,6 @@ Weekly Active Users who accept at least one Breaksy suggestion per week - target
 • **An AI therapist, health coach, or medical tool** — the product focuses on practical workplace break behaviour, not clinical or mental-health advice.
 
 **★ SIGN + SEAL**
-This is what I'm building for the next 10 weeks.
 
+This is what I'm building for the next 10 weeks.
 Signed: Rishu Kumar  ·  Date: 23 Aug 2026  ·  Presented to: Upivot Pro Batch 1 + Abhik

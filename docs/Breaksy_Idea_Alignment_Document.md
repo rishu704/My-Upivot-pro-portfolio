@@ -177,7 +177,4 @@ Weekly Active Users who accept at least one Breaksy suggestion per week - target
 **★ SIGN + SEAL**
 
 Once you submit this document, this is what you're building for the next 10 weeks.
-
-You can adjust HOW you build it. But the WHAT is committed.
-
-Choose accordingly.
+Signed: Rishu Kumar  ·  Date: 23 Aug 2026  ·  Presented to: Upivot Pro Batch 1 + Abhik

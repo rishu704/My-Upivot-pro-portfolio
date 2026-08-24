@@ -1,0 +1,685 @@
+Notification I have, like, it started or something. I think now it came, right? Okay.
+
+
+sachin alex
+Oh, by the way, before starting, like, this is useful. This Fathom note taker. noticed, excuse it.
+
+
+Rishu Tech
+I not asked him directly.
+
+
+sachin alex
+But it's useful.
+
+
+Rishu Tech
+It's good. Like, even yesterday, just I did a quick experiment of one or two minutes. Like, I created one with my wife and just we did some talk and all.
+
+
+So it was able to analyze and write it properly, whatever was discussed in the call. So I think it's helpful.
+
+
+Perfect. Let me just open my file. Questionnaire will start. So, like, Sachin, first question, like, means, can you just walk me through your typical workday, like, from when you
+
+
+You start until you finish. So just a high level, short one or two minutes, you can just talk on that.
+
+
+Okay.
+
+
+sachin alex
+So typically when, uh, I was in my last role, I'll tell you like how I was, uh, I was in a more hybrid slash office going where I had to go, you know, close to six hours in office.
+
+
+had to be there. Uh, so my day probably started at around, uh, so you want everything. Like, uh, since the time I woke up or actual work, work office, like once you start doing work, right.
+
+
+Rishu Tech
+Most focus, like, like how much time you spend on desk and like how much you are focused on work versus your meetings and calls just a kind of percentage.
+
+
+Okay.
+
+
+sachin alex
+So, um, so for me, my meetings were not much in the morning, uh, because I had my team entirely based out of the U S so my meetings were usually in the evening.
+
+
+Uh, so the six hours in office that I used to do was more of. Personalized focused outputs that I had to give in terms of deliverables.
+
+
+Those were the works that I did during daytime. If at all, there were meetings with product managers, or if I had meetings with specific stakeholders, India focused, that's when I used to take meetings here in India.
+
+
+But otherwise, it was, you know, around 830 to probably around 132 is when I used to do office work.
+
+
+And that like, it is obviously like six hours never, it's never dedicated six hours of work that you do.
+
+
+It's probably two, three hours. When you come in fresh, that's, that's when you get give that dedicated output, two, three hours.
+
+
+And then, and then evening, obviously, like when I used to come back home, I had calls from around maybe 7, 730 in the evening, which went on till
+
+
+You never know, like on a minimum, it went on till around 10, 30, 11, but depending on situation. So, so roughly, yeah, those were my working times and productivity again, like meetings in the evening, like focused work in the morning and mostly like in that time period when you're working daily, right?
+
+
+Rishu Tech
+So how much percentage of your day is spent at desk?
+
+
+sachin alex
+So in this, obviously, like, from a personal thing, I have a very high attention deficit. I mean, I won't classify myself in the ADHD category, but I have like, I can't sit for long stretches at my desk, either because I lose my attention span or is it or it can be because of anything else.
+
+
+Like, you know, my focus is probably, you know, for a good 15. 20 minutes span is my utmost focus.
+
+
+Then I probably get up, go for a walk, do, do something else and then get back. But then again, like, so if I have to sit probably half an hour, 45 minutes at a stretch is max that I can do at my desk.
+
+
+Got it.
+
+
+Rishu Tech
+Okay. So next thing will be like, can you just go through like any one instance last time when you had a very busy or you can say focused work day, very busy or focused work day.
+
+
+sachin alex
+Um, okay. can give you an example last week, like when we had to give our assignment, uh, I can give that as an example where, uh, obviously like more, uh, it is on the day of our submission Thursday when we had to submit it, uh, like, uh, I had pushed it till the last day because I had all the work done.
+
+
+It's just that I had to format everything and put it, which, which ultimately. It took me a lot of time because I was new to this thing, your GitHub, and trying to figure out things was a little problematic, but then because I had to understand and there was that deadline, that's why, you know, I had to burn the midnight candle and, you know, stretch past my normal hours and put in the effort to understand how it goes.
+
+
+So, again, like, you know, it was staggered where morning I did most of the thinking work and evening, like, because it was execution and time to actually put into the final repo, that's where I was trying to hurry things up and finish up, but yeah, I did stretch my limits and put in those extras.
+
+
+Rishu Tech
+Yeah, so mostly that time you were more into the desk rather than the usual timings, right? So I would stressed a bit more, right?
+
+
+sachin alex
+Yeah. Okay. Got it.
+
+
+Rishu Tech
+So obviously you would have taken. can less break also at that point of time. Exactly. Yeah.
+
+
+sachin alex
+mean, compared to a normal day, because there was a requirement of, you know, there was a deadline pressure and you had to finish.
+
+
+That's why, you know, compared to my normal standards, I was more on the desk doing the work than, you know, moving to the other day.
+
+
+Okay.
+
+
+Rishu Tech
+So I think my next question you would have already answered. So basically the question was like how you normally decide when it's time to break.
+
+
+So as you told, like whenever in a 30 minutes time, right. So you obviously think, let me get up, let me do something.
+
+
+And just, you just try to change that.
+
+
+sachin alex
+In the general mood of things and general environment, I mean, it probably helps me think better or maybe just, I'm just tuned to be like that, where I get distracted and I get up, but yeah, it's usually a 15 minute period that I continuously work for and then just get up.
+
+
+Got it.
+
+
+Rishu Tech
+So like, Sachin, next question is like, let's say, not. Now, anytime in your past, right? So let's say if you're working on something, right?
+
+
+So what exactly prevents you like from getting up? And you know, you should get up, right? But sometimes it happens, right?
+
+
+So what were the main challenges which will block you or which will prevent you from getting up?
+
+
+sachin alex
+I mean, I feel in general, if it's something that you're really passionate about, in terms of work, in terms of even entertainment, any sport for that matter, like, or I do a lot of gaming, like, again, so my desk has my work setup and my gaming setup also.
+
+
+So then if you're into gaming a lot, again, like, and you're doing online gaming, then that's another problem where, because you cannot really look away from the screen at any point of time, because it's real time.
+
+
+It's another issue. So then you're again hooked on to it. I mean, that is one of the examples, but then like in general also when you're watching a match for that matter, like you can't, like if it's a football match, like really passionate about football also.
+
+
+So, I don't really like to get up for any small instance, like if it's my favorite team that's playing, like I will watch the entire 45 minutes only at the halftime break is when I plan to get up.
+
+
+And so again, like, so it's, it's about how important the thing is to you in terms of entertainment, in terms of passion and if it's, if it's work again, like the deadlines or how critical the work is, that's what matters.
+
+
+And accordingly, you can gauge like when to get up and you know how much time to spend at the desk to complete the work.
+
+
+Rishu Tech
+So mostly in short, short, if I'll take. Key takeaway. So two points, one will be a kind of defocus and another will be a kind of deadlines, right?
+
+
+Yeah.
+
+
+sachin alex
+Defocus and deadlines.
+
+
+Rishu Tech
+Yeah, correct. terms of work, if we see, right? So, okay, got it. Yeah. So mostly let's say if you get up from your desk, right?
+
+
+So what do you usually do? Like any two, three things generally, which you do whenever you get up and away from screen.
+
+
+So what you try to do? Usually away from screen is another screen.
+
+
+sachin alex
+Probably your phone is what you end up looking at because, uh, and that's the easiest distraction that's available. There is what, um, but either that, or, uh, there is some show if you're at home, obviously if, if it's at home that you're taking your work, then there are other activities that, uh, there to be done.
+
+
+So, uh, it's not usually. It's a health nudge, where you know, I take that break to probably complete steps or, you know, whatever daily, it's not that, it's just a distraction break that you end up taking, rather than a focused break at, you know, taking an effort to work on your health or something like that.
+
+
+Rishu Tech
+Like sometimes a tea break or even coffee, something like that, exactly. Yeah, that's, I mean, yeah, exactly. Good to point that out.
+
+
+Coffee, again, is something that I do consume a lot.
+
+
+sachin alex
+Yeah, that's something that I would ideally break for if I had to, you know, break away from long hours.
+
+
+Rishu Tech
+Got it. So as I told you, right, like, even I faced a kind of stiffness or something. So just I wanted you to, from you, right?
+
+
+So any you didn't notice any kind of discomfort or tightness like while sitting along or something like that you noticed?
+
+
+Uh...
+
+
+sachin alex
+I've perennially had lower back issues and I can't really attribute it to my posture always like it is one of the factors but there are other factors also which can probably lead to you know a stiff lower back but along with that my wrist I mean I have I do tend to have wrist issues at times where because you you're placing your hands in such a way that so like there are couple of say you know issues that I face when I sit for I mean sometime continuously at the desk okay but I mean I think compared to others I'm slightly better because of the fact that I I mean you move movingly I get up so that's that's why like I know for a
+
+
+That's fact that my wife, compared to me, is a lot more, you know, who gets engrossed in work, she doesn't get up, and these nudges are something that I have to probably, you know, do a call in between just to remind her to get up or, so then, so yeah, I mean, she would be a better candidate for you for this interview.
+
+
+I was thinking the same, but yeah, obviously I got a reference right from you, so I understood.
+
+
+Rishu Tech
+Yeah, you are one and she's also one catty, so I got it, yeah, good, good to know that, yeah.
+
+
+So let's say Alex, I mean Sachin, right, so you are spending, let's say, sometimes several hours looking at the screen, right, so do you, how do you feel about your eye?
+
+
+Like, sometimes what happens, like any kind of tiredness, dryness, if you feel more stress on head, like anything like that?
+
+
+sachin alex
+Yeah, I mean, your eyes, I mean, my eyes tend to be a little watery if I, you know, view the screen for a really long time.
+
+
+But, So, and, Luckily, I mean, it's again, like it differs from person to person, like, although my screen viewing time is on the higher side, but luckily I've not, you know, had spectacles so far in my life, but that may just change because it just differs from person to person is what I see.
+
+
+And, uh, it's always good to be on the safer side and have a little control on, uh, you know, viewing habits, but, uh, yeah, for me, it's, it's, it's kind of okay, but yeah, watery eyes is, is probably, uh, a thing that's, you know, if I do tend to put in the long eyes, then I do face that issue.
+
+
+Yeah. So mostly what you try to manage, like that eye comfort thing, right?
+
+
+Rishu Tech
+So how you try to manage it? Like, what do you do for that? Like, look away, walk away, like exercise or something, anything like that?
+
+
+sachin alex
+Uh, I, uh, in fact, yeah, this is a good point that you raised and, uh, In terms of work setup, I do have a monitor extra that I do use, and the settings available on that, obviously it's not a low-end monitor, it's a high-end monitor, and it comes with those varied settings where you can adjust it for different modes of usage, like your cinematic viewing, your gameplay viewing, that it's all different.
+
+
+So again, like if I know that I'm going to put in those long eyes, I try to adjust it in such a way that the brightness is slightly on the lower side.
+
+
+Rishu Tech
+I mean, I don't like my screen to be very bright, unless like, you know, it is a super immersive experience that I want to create.
+
+
+But otherwise, it's such that, you know, the brightness is slightly low, so that it does not hit your eye too much.
+
+
+sachin alex
+Um, so, uh, That is something that I do to ensure that, you know, it does not affect my vision a lot.
+
+
+Rishu Tech
+Got it. So, yeah, good on that eye part, like you told, like you are managing it somewhere, very good way.
+
+
+So that's good. So just next thing is like, I want to talk about is like, how do you manage drinking during a workday?
+
+
+Drinking?
+
+
+sachin alex
+Water, you mean? Water, yes. The question was very open ended. Till probably the time I got married, I didn't really have a controlled effort on, you know, tracking my water consumption because, I mean, you did have that one liter bottle in the morning and then unless like I was nudged by either my mom or somebody close to me, I didn't take an effort and he gets usually like, so
+
+
+So I am very active physically. So when I play sports, you obviously tend to drink. And that's when my maximum consumption of water happens.
+
+
+But like, one thing that's happened as a positive change, like post marriages, my wife is very particular about, you know, water consumption.
+
+
+And it's, it's more like a habitual thing, like her side of the family, like parents are father, the doctor.
+
+
+So he's ensured that, you know, there is that regular water consumption. So, I mean, our, my level of consumption was her level of consumption, like my, you know, lot of difference, like, you know, a one liter versus a two and a half, three liter consumption, that, that was the level of difference on a daily basis.
+
+
+So then that is something that even she tried to incorporate in my life. Obviously, like it was not a change that was overnight.
+
+
+One bottle is is probably off. One liter bottle is something that at least she tried to ensure on a daily basis that I consume, but then, uh, for easy tracking, what she did was, um, so on Amazon, there are these huge, the Stanley ones, there are the other branded ones as well.
+
+
+So, I mean, what that does is it helps you measure. Like, I mean, both of us use that same bottle, uh, where, you know, each of us, uh, track that in the morning and, uh, we ensure that, uh, I mean, by the end of the day, you've, we've consumed that.
+
+
+So that is something that obviously like she's brought into my life and, uh, I've ensured like, so, uh, I mean, personally, like for me, that measuring thing would not have mattered earlier.
+
+
+But then because she was like, yeah, it's easier to measure and, and because.
+
+
+Rishu Tech
+It's an effort that both of us are taking.
+
+
+sachin alex
+So like I was game for it and that's how I do measure my water consumption. So it's gone up to your two, two and a half liters now.
+
+
+Rishu Tech
+Good. Good. That should be there actually means this kind of measurement, right? It helps. And obviously body needs at least a minimum of two and a half to three liters.
+
+
+Right. So it really helps. So, like Sachin, like outside your work, right? Like how physically active you are, like, just wanted to understand, like, basically what does a typical week, you can say, look like in terms of fitness and all.
+
+
+Okay.
+
+
+sachin alex
+last six months I've been super active. Uh, I mean, in general also, like, so I play a lot of football, like that happens twice a week.
+
+
+So twice a week of football is like almost one and half, two hours of, uh, a lot of running.
+
+
+And this has happened since like, I mean, I've been playing football for all my life. Uh, and added to that.
+
+
+Now in the last five, six months, I've started a calisthenics as a physical training sort of a program and crossfit and all right, it is like crossfit.
+
+
+Rishu Tech
+Yeah, it is. It's basically using your body weights instead of added weight, it's not, you're not lifting separate weights, you're using your own body weight.
+
+
+sachin alex
+So more like, you know, pull ups, push ups, you know, dips, all of that is something that you focus on as basic.
+
+
+muscle building activity, and then you develop skills, like your handstand, your headstand, all of that are skills that you develop as part of calisthenics.
+
+
+And that is something that I started like, you know, five, six months back, and I've been regular at that.
+
+
+Like, so basically every day, 6 to 7.30, I work out at the calisthenics gym. So Monday to Fridays, I go for calisthenics.
+
+
+And then football is also on these days.
+
+
+Rishu Tech
+No, no, no. Football after the calisthenics session. So I've been very, very active physically.
+
+
+sachin alex
+I mean, that's something that I look forward to on a daily basis.
+
+
+Rishu Tech
+So anything like you try to do anything during work to complement your training, something like that?
+
+
+sachin alex
+Not really, because I know for a fact that my physical activities are being taken care of in those hours and it's something that I do dedicatedly.
+
+
+So nothing out of the way like that I try to do or, you know, take a special effort at while working.
+
+
+I mean, ideally, like a few things that obviously like everyone can do, but it's not something that I do.
+
+
+Take a special effort towards.
+
+
+Rishu Tech
+Okay. So one more thing, like if you have tried anything like to help you, like to take breaks, move, stretch, manage, screen time, posture, or drink while you're working, like any kind of tools or anything like that?
+
+
+sachin alex
+Oh, I tried anything. Basic alarms, maybe I must have kept, but no specific apps as such to make an effort to get up from my existing.
+
+
+Position or a seat. But yeah, alarms are something that I remember keeping consciously that, you you wake up, you get up, you know, do something urgently just to, you know, distract you from your current routine.
+
+
+Rishu Tech
+Got it. So now, how do you feel about any reminders or notifications, like during your focused work?
+
+
+sachin alex
+I mean, I'm not particularly for any distractions when I know that I'm trying to do focused work, but if there is a need in terms of, because I mean, obviously, like it is a genuine problem, like when you're putting in those long hours, you tend to get, you know, so focused that for me, like, I mean, it will be a welcome, like if I'm putting, but unfortunately, I don't have those, the habit of putting in those really long hours.
+
+
+So, but I know for a fact that like, again, like my wife, I know for her, it is something that I would want, you know, a positive sort of a change where, you know, there is something that keeps reminding her that, you know, you have to get up, you have to go.
+
+
+So So So maybe not for myself because some people are just, you know, wired like that, where, you know, they get up and get distracted in a positive sort of a way, but some people I know that they need that.
+
+
+And so an external in terms of a notification is probably helpful. I mean, the problem is the notification also should not be because unfortunately we are in an age where notifications are so regular, like for any notification just pops up, like, especially like, you know, your delivery apps or your, you know, shopping apps.
+
+
+So all of that, if, if it's just another notification, you, you know, and mentally, you know, okay, this is probably just going to tell me that, you know, take a break and do this, do that, but I mean, I'm in the middle of something.
+
+
+It has a deadline. So. Mentally, you'll be like, oh, you'll try to, you know, weigh in the importance of each one, and then you'll probably just continue working.
+
+
+So that notification also should probably be in such a way that, okay, it will actually make me get up or, you know, distract me from my current routine.
+
+
+it is welcomed, but it should be a little more engaging is what I mean. It is not like, you know, just another reminder.
+
+
+Rishu Tech
+Got it, got it. So, okay, so this is good. Like, let's say if you are talking from your wife's perspective only, right, let's say she needs it more, right?
+
+
+So let's say add one question from, for her only if I'll ask from you, like one thing, if you'll like to change on your workday effects, right, that will change your physical or even visual well-being.
+
+
+So what do you try to change? I'm sorry, I didn't get the question, right?
+
+
+sachin alex
+Let's say, like for her perspective, only this question I want to ask from you, since you are giving me more concern, right, where she should improve or something like that, right?
+
+
+Rishu Tech
+Right. So let's say a one change, what you can think, right? Her workday will affect, means her physical or visual well-being.
+
+
+So what would be that change if you want? That one change.
+
+
+sachin alex
+I mean, through this app, you're saying or in general, like, means in general, that is positive that comes in her life.
+
+
+Ha means what will help her in one way, like his, her continuous workday habits, right? Continuously seeing the screens and all not getting up.
+
+
+So what do you think will help her?
+
+
+Rishu Tech
+In one, just any one idea sort of thing. I just wanted to know from your end, basically it, which will help her to kind of maintain healthier habits as well, like without feeling interrupted again and again.
+
+
+sachin alex
+Okay. That's a little open-ended, which I'll probably want to think, think of anything specifically that, you know, So basically, I'll tell you a high level on the idea, right?
+
+
+I already discussed, right? So it's something which I'm still exploring, right? So that's a concept.
+
+
+Rishu Tech
+So just I'm, you can imagine it's a product, right? Which will quietly supports your desk work during the workday, right?
+
+
+By suggesting some short movement, mobility, hydration, and visual break as well. So basically, see, you have at appropriate moments, it's not like if you're too busy in your time, it will first understand.
+
+
+your schedule, it's not like if you're too busy at certain times, it will come and poke, you know, at that time, we can just keep it silent, let's say one or two, or if you're too focused, and we'll manage it in the next runs, like we can just give you some more heads up, okay, you can do a little bit more, since you left out at that point.
+
+
+So it's a kind of companion, it will be, which will be helpful for you. Like as you told, right, you have water with next to you, right?
+
+
+So yeah, obviously, you know, you have to drink it and all, right? But it is something which will be kind of companion, which will give a quick heads up, okay, it's been long, know,
+
+
+You have not drunk that, right? So it's a time you can just, why don't you drink a bit of water for continuously for maintaining the flow, right?
+
+
+So it's a kind of that. So if we comes up something like that, as you told about your wife as well, right?
+
+
+Like she's more into work. And even if you want, something will be there, but not like a regular notification, but a kind of friendly reminder, like which will reminder, which will let her know about little bit of these things.
+
+
+So simply if we can, she can put little bit of effort, right? So it can be helpful. So what do you think about it?
+
+
+Like what's your immediate reaction? If I'm thinking, yeah, I'm not creating any product. Just I'm thinking now from a problem statement perspective, like we can do this.
+
+
+We can deal this. I want to come. I will create a companion, not a reminder kind of thing. So what's your immediate thought on this?
+
+
+sachin alex
+I mean, like it is a valid problem as such that you're targeting here in terms that we all face very similar situations.
+
+
+I mean, I was like, Sorry. mean, App specific, see, when I'm trying to compare, is there something similar, uh, uh, like the breathe, I don't know if there's an app called breathe or something like where, you know, it's just telling you to focus on your breathing and, uh, like it's a general wellbeing sort of an app, uh, I was trying to compare, is this something similar to that or, uh, because like, how are you, okay, just don't look at it from, uh, what you're trying the user to achieve through this, but, uh, look at it.
+
+
+I mean, are we, okay, first of all, just taking two steps back, look at it from a monetization perspective also.
+
+
+Rishu Tech
+And all of that angle also comes in trade.
+
+
+sachin alex
+Yeah, obviously.
+
+
+Rishu Tech
+Yeah.
+
+
+sachin alex
+So you think just, just think personally, like, is it something that you, as a user would be ready to pay just so that it's basically a reminder.
+
+
+It's, it's going to remind you that, you know, okay, do this, do this, do this, at, at points, it can just be troublesome also, and in terms of actual outcomes, it's, it is going to affect your health positively, but short term, maybe it is difficult to quantify the immediate outcome.
+
+
+And also, will a user be actually, you know, willing to pay for this is something that is my first concern that, you know, why would I, as a user take it, I mean, I'm probably not the right use case for this, like my wife is obviously a right choice, but then I would probably nudge her to actually use this, but then how will you monetize this or how would you justify paying for this sort of an app is something that I was thinking.
+
+
+Thank you, If you wanted to add a monetary, this thing to this, like on, have you thought about that?
+
+
+Rishu Tech
+didn't about but initially what I thought, obviously this can be initially if we give it as a free part, right?
+
+
+Free tire. So what it will be, it will obviously similar, it will interact and it will give you that kind of notifications or tab, you can do this, that, right?
+
+
+But yeah, obviously if we have to monetize it, right? So obviously what I thought for a free, like it's a kind of freemium model, which I thought basically.
+
+
+So free part means obviously you will get all these benefits, basic stuffs and all you will get. But obviously if you want to analyze it further, right?
+
+
+Like how it's your progress, how it's your weekly progress, how you've been improving over your month's period of time, right?
+
+
+So in order to do that analyzing tracker and all, so that obviously I can give you only if you want, if you'll get a kind of paid customer for it, a subscription kind of thing.
+
+
+So obviously if you'll start using, if you'll start liking, right? So obviously I feel a person would want to.
+
+
+So for now, yeah, obviously I've thought like in order to make it a premium kind of thing, not much charge, but a kind of $199.
+
+
+We can start with a lower budget, right? So if even we have to know, right, how many interested folks we are getting from that, right?
+
+
+So it can give me an idea, right? Okay, this is something which they are ready to pay, or they are interested more into it.
+
+
+sachin alex
+So slowly we can move further on that.
+
+
+Rishu Tech
+So this is what I thought of as of now.
+
+
+sachin alex
+I mean, it sense. Yeah. Just to figure out how the market is in terms of, you know, receiving the product.
+
+
+Rishu Tech
+So because what I thought that now in the market, there is nothing that to your 3-4 desk. Like, yeah, people are throwing apps into the market, like reminder, you have app, bottles, water, water, steps count, but there is something if we create in this way, right?
+
+
+So it will just accumulate three, four things, which is specific to a desk because we have so much percentage.
+
+
+Not only in India, even outside as well. So if we can target those audience, right? So even if we get 1% as well, 1% is a very huge number, which I'm telling even 0.1% as well, right?
+
+
+So if we start seeing how the pattern is, how the behavior is, so I believe if one uses, it tells to some three, four peoples, like you can also try this.
+
+
+So that's how even this, obviously, I'm not thinking that much from a marketing or this community perspective of can increase, but this is what I can think like if it starts growing, So yeah, it has a broader picture, but then agar larger category dekhna padeh, toh it is a health wala app is what you can say, right?
+
+
+sachin alex
+So if you want to build, because this is a very specific sort of a use case that you are trying to focus on, ki desk peh joo baehte hai, unko, you know, regular nudges dehenge, and so I
+
+
+I feel it has to be tied to a larger, uh, you know, uh, market here. I mean, obviously like it is a health related app, but then going forward, like if you want to grow it, then as a feature adding perspective, say, how will you think of it is something that just give it a thought, like ultimately, like it shouldn't be a case where, uh, it is this one feature that you are trying to sell or that you can't build on that case.
+
+
+Because like right now I'm thinking it's just this one, this thing, but as a health app, like what else can you incorporate into it?
+
+
+Uh, so that, you know, there is more, uh, you know, customer attention or, uh, obviously stickiness though, uh, is something that you will focus on, but then no.
+
+
+ACTION ITEM
+Ask colleagues for feedback on desk-work wellness companion; share summary w/ Rishu
+New acquisitions will be able to see a little bit of from that perspective and I can probably ask a few people what their thoughts on this, so I will let you know.
+
+
+Rishu Tech
+That will help. So Sachin, at last, like I just wanted to know, let's say which this app or web app, whatever you can say, it's try to focus, right?
+
+
+So on a rating of five, like how do you think about these behaviors? I just want to understand. Okay.
+
+
+So first one is, let's say movement. So movement, how you will rate? How much is it is important out of five?
+
+
+Movement as in getting up from your desk?
+
+
+sachin alex
+Correct, correct.
+
+
+Rishu Tech
+Yes. Oh, five, five. Then what about eye comfort?
+
+
+sachin alex
+My comfort is also a 5 because yeah it's primarily like your vision is something that's important and what about hydration?
+
+
+Hydration is a 4 maybe. mean because..
+
+
+Rishu Tech
+or 4 kind of not that much strong?
+
+
+sachin alex
+No not that much strong because personally like once you've achieved something and you know that you will be able to manage whatever your litre count or this in the other as not at your desk.
+
+
+If you're able to do that during the day then it's probably priority.
+
+
+Rishu Tech
+That's why I'm prioritizing that a little lesser but it is important.
+
+
+sachin alex
+It's not like it's That's why I have this parameter to understand which is more or a little less.
+
+
+Rishu Tech
+In terms of the other thing that you asked.
+
+
+sachin alex
+Okay and what about posture? I mean, I would link that to physical movement only because, I mean, to improve your posture itself, like I think it's necessary to, yeah, just get up and stretch yourself.
+
+
+Rishu Tech
+and a little bit of, what about stretching if you'll consider?
+
+
+sachin alex
+Three or four again, like not five, but three or four.
+
+
+Rishu Tech
+Okay. Got it. Yeah. So that's all I had from the questionnaire part. Maybe at the top, so we can talk if you want.
+
+

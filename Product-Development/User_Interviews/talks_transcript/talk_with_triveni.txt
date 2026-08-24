@@ -1,0 +1,813 @@
+Telling about this. It doesn't come up in the screen. It is in your system. It records your system voice.
+
+
+doesn't record your call.
+
+
+Triveni Deshmukh
+So, and after that, it will give you a summary. Okay.
+
+
+Rishu Tech
+Okay. Next time I'll try. Good to know.
+
+
+Triveni Deshmukh
+So, okay. So I think it started, right?
+
+
+Rishu Tech
+So what I will do now, I'll just, I'll first brief. as I told you in LinkedIn as well, right?
+
+
+So what this is all about, right? So nothing too much. So it's just something like I thought of like to work on a, you can say project research, product research kind of project.
+
+
+Like, I just want to know from people, like how they manage their physical and visual wellbeing, like during their desk hours, right?
+
+
+You're working, right? Obviously you are also one of a kind of user persona, right? So who is basically working, sitting in front of laptop, right?
+
+
+Triveni Deshmukh
+Continuously doing your work and all right. To just, just understand like your typical work day. Break, screen time, movement, your current habits.
+
+
+Rishu Tech
+Okay. So this is what it will be all about. So let me start with my questions, which I have listed.
+
+
+Okay. Yeah. So Triveni, first question, like, can you just walk me through your typical workday?
+
+
+Triveni Deshmukh
+Like from once you start working until you finish. So how it look like?
+
+
+Rishu Tech
+Okay.
+
+
+Triveni Deshmukh
+When I woke up in my day two, like in a employment phase.
+
+
+Rishu Tech
+Okay. So I look for like immediately I look for my mobile. Okay.
+
+
+Triveni Deshmukh
+And then I go for washroom and freshen up and then I come back and I look for like mostly what happens that in our team's channel, we are other employees or teammates give their updates.
+
+
+Rishu Tech
+Like are they coming or not? Or are they on leave? Or what is, is there any update?
+
+
+Triveni Deshmukh
+urgency. Okay. So if you find that there is an urgency, will set your mind from home that okay, you need to do.
+
+
+Fast, and you recall all the tasks you have done for that urgency one, okay, because the follow-up task, so we need our memory because we do what we have done and what to do and what was the scenario when we were facing this issue, okay, and with this mindset, I go with my office and then I look up for, I discuss with my employees, so for first 10 minutes, we don't discuss directly because it will make everyone nervous that, okay, is it a game or something like that, so we just settle up, okay, after having tea or something, and then we just look for, okay, and then on TV, we have a light conversation, what is happening, why is that, it is not a formal one, so for us, it is like a build-up one, okay, what needs to address, okay, and when, after that, when we come, after the tea,
+
+
+We said for the update before, we used to have a scrum call with our client, so before client, what we need to prepare as a team, what would be our answer, what would be our response, okay, that time we do our retrospective, and then we do like, if we have any evidence as a quote or a document, we look for it, and we share to each other, okay, this is this, and then we give like a narrative to our project manager.
+
+
+This is, we have to deliver to our client, if you cross-check or cross-questioners, okay, now in the scrum, our client first used to take one by one update of the regular task first, and then at last, he used to discuss what this happened or why this happened, and first, he was also a technical person before being like a product manager of a client's side, so he goes for the tickets and And then
+
+
+He checks, okay, this follow-up task was, it was assigned, and then he asked me what you have done, what you have post right now, okay, and then we used to give our answers, and then, meanwhile, if we need any support, our project manager used to give the, okay, this is why he, she did, and something like that, and it was like this, and even if something happens, or if it concludes, okay, this might be reason, if we get the RCA, in within the discussion only, try to reach out, we try to, like, look for it after the call itself, but if you are still spectable, like, a spectacle of, okay, what happened, this is, we rank our priorities, okay, this could be happening, this could be happening, or this could be happening, so if it is a code phase, we will directly reach to code, and then we will try to figure out, or if it is, like, a production, or, like, environment-based, we look for our, what we have post, or what was that, so this, this happens,
+
+
+So like different different scenario we tried to understand.
+
+
+Rishu Tech
+I got it. got it.
+
+
+Triveni Deshmukh
+So basically, your day starts with initial planning. First, you guys talk discuss on stuffs, then scrum happens as usual.
+
+
+Rishu Tech
+So you will got to know what task you have to work on prioritize and all. And accordingly, you start working, right.
+
+
+So that's how the whole day goes, right. So okay, so so just wanted to know, like how much percentage of your day, right is spent sitting at desk percentage, if you think out of it, it was like 60 to 70%.
+
+
+Triveni Deshmukh
+Because my team member used to be having, like, more experienced process, 18 to 20 years of experience.
+
+
+Rishu Tech
+Okay.
+
+
+Triveni Deshmukh
+So if it is very hectic, like it is a very like burning issue, we will sit for a whole day.
+
+
+Okay. Just go for washroom. If it is just a day to day life, we like to have a chill pill.
+
+
+Okay. Have this and it was a startup.
+
+
+Rishu Tech
+Okay.
+
+
+Triveni Deshmukh
+So we know that all our client is dependent on us. We are the main resource of client. So we used to have the focus on having a fresh mindset.
+
+
+Okay, got it.
+
+
+Rishu Tech
+So in that case, let's say how much your time has been like focused work versus meetings slash calls?
+
+
+Triveni Deshmukh
+Meeting since I was a software engineer, I was a comparatively younger one. So most of the time was for me development and whatever being conveyed to me.
+
+
+I don't directly go for a discussion. If it is a development based discussion, I reach out to them, but it happens very like a last phase.
+
+
+If there are three discussions, third one will be I to include on. So we can take 70% work and 20-30% calls, right?
+
+
+Rishu Tech
+Yes. Got it. So mostly currently like you work from home all the days or like it's a kind of hybrid?
+
+
+Triveni Deshmukh
+It is strictly work from office, but there was an exception. Because we used to work in Bangalore, and we have a native at like a far places like Delhi, which requires to take work from home and it will be like 15-20 days.
+
+
+okay, okay, got it.
+
+
+Rishu Tech
+So now can you just tell me any last time experience like when you had a really busy or focused work day?
+
+
+Can you just go through that day?
+
+
+Triveni Deshmukh
+Okay, that day, it was when I would say that when client itself was not aware of the development, what it needs to be done.
+
+
+Okay, and then client directly at that was one task, which was very like frustrating to me as mentally and emotionally.
+
+
+So client didn't give me proper feedback like PRD what to say because in traditional Indian companies, they don't follow the documentation properly.
+
+
+Okay, so he directly reached out to me. I okay, you need to develop this, this, this. And I, as I was a junior, when I said, okay, I'll do that because I didn't have the authority to question, and I didn't have the confidence on my project manager.
+
+
+Will he be supporting me on this? Because, because of some reasons, okay, and this happened and I, my tester was also not aware of it.
+
+
+Okay. And just to, just to show that he was, he or she, I would say both of them were doing that.
+
+
+So they just participated and they took all, like gave all the responsibility to me that you, you understood, you developed.
+
+
+Got it. then I developed it according to my understanding, it turned out to be different. Okay. And then I discussed with my testers, do you remember?
+
+
+This is what he said, according to me. And if you have any other observed, like observed. So I was pretty much confident that, okay, this is the thing, what happened.
+
+
+But when client confronted, what is this? It was all on me. Okay. And what happened at that time, client directly asked to keep it on testing, like keep it on testing on their side, like staging side of their environment.
+
+
+So it was not tested by my team. Okay. It was not conveyed to my project manager. But when the confrontation happened, it was all on me.
+
+
+Rishu Tech
+Okay.
+
+
+Triveni Deshmukh
+And I was like, if I stand for me, I would be the first one to get fired off. Because no one wants to, no one wants to take or like, have a bad impression in front of client.
+
+
+And if they are so seniors, they don't want to have this embarrassment.
+
+
+Rishu Tech
+in front of them. So everyone was quiet.
+
+
+Triveni Deshmukh
+And since I was a junior, I didn't know how to handle such situation.
+
+
+Rishu Tech
+Okay. So it was quite hectic for you, right?
+
+
+Triveni Deshmukh
+in short, if we'll discuss, right? It was that I started working on it, but since still the understanding was not happened, then I called to this client directly and asked him to tell me what you want.
+
+
+Okay.
+
+
+Rishu Tech
+And then I asked him, this is my understanding of this, what you have done.
+
+
+Triveni Deshmukh
+And then again, I deployed it and then deployed it. And then it was like a three, four week of cycle of doing the same thing because of the not clarity of what they wanted.
+
+
+Rishu Tech
+So basically in this kind of schedule, right? So obviously means you will be sitting long continuously at your desk, right?
+
+
+Continuously, right?
+
+
+Triveni Deshmukh
+So you are not able to take even breaks as well, right? Like how you used to do regularly, correct?
+
+
+Rishu Tech
+Correct. Got it.
+
+
+Triveni Deshmukh
+Okay. So next question is like,
+
+
+Rishu Tech
+Generally, let's say if you are doing your work right, so how do you normally decide like when it's time to take a break?
+
+
+Triveni Deshmukh
+When I know that, okay, first, like if in morning I got a new task, of course, let's say that in the morning itself, I got the new task, I look for recreating this, like, what to say, reproducing the task, okay, bug and feature, and I look for a quote, if I think that, okay, this, as I have already worked on this module, so I have pretty much of confidence, I can crack it, okay, then I go and chill out, because I have the confidence, okay, and then I come back and start developing, and I find that, okay, no, this is not what I have expected, it is not the same flow, what I was expecting to work on, so then I was like, okay, I have to stretch till my lunchtime, till the lunchtime is my first deadline, I will give my 100% before lunchtime, because after lunchtime, what I
+
+
+Comparatively, the focus becomes lesser. Okay.
+
+
+Rishu Tech
+Got it.
+
+
+Triveni Deshmukh
+So before lunchtime, I will give 100% and still if it doesn't happen, okay. So after that lunchtime, I'll look for it, okay, what can we do?
+
+
+And I finished my lunch fast and then I will stretch it for one or two years, one or two hours, sorry.
+
+
+Hours. Got it, got it.
+
+
+Rishu Tech
+One or two hours.
+
+
+Triveni Deshmukh
+And then it's like, if it, then you got somewhere in the middle of, okay, is it possible for you or not?
+
+
+Okay. If it feels it's not possible, then I reach out to my senior and then until then I wait for not to disturb my code because after that, after that, I understand, okay, I'm going to mess it up, but I'm going to solve it up.
+
+
+In between this working hours, if there is a time when we know that, okay, you are going to mess up it, if you try to solve it, or is there any solution here?
+
+
+Got it.
+
+
+Rishu Tech
+Understood. And my break time depends on my senior response. Okay. Got it. Got it.
+
+
+Triveni Deshmukh
+So now just tell me any your last time, right?
+
+
+Rishu Tech
+When you realized like you have been sitting or working much longer than you intended. So any last time experience any day specific day you can take?
+
+
+Yes, there was a time.
+
+
+Triveni Deshmukh
+So like what would be like forcing you to like sit on that time?
+
+
+Rishu Tech
+can just summarize like what was happening and why you were sitting continuously like you were you were knowing like you had to get up, but still you were doing something or working.
+
+
+Right. So what was that? When the task was dependent, like it was interdependent. Okay.
+
+
+Triveni Deshmukh
+And the single task is dependent on three, four responses because I need a follow up from different, different seniors, those who have worked on this model.
+
+
+And it is a critical base. So that time I was sitting, I knew that, okay, I can wrap it up.
+
+
+and I can go home and I can put it but since I was like I'm in a good flow sometimes there are two scenarios for a developer to sit on a desk for a long first they don't want to break their flow they know that they are in a good pace so they don't want to break and second one is that they are very anxious okay and they want any help or support from others so they are dependent on someone else responses or follow-ups so these are the two times when unhappily software developer keeps on desk your device so like what made you realize it like you are sitting for so long something you felt or something you thought something like that like anything like any posture or any kind of discomfort or anything or stress like what made you think like you're sitting for so long when my eyes aches like when my eyes is like
+
+
+And I'm like, no, no, I stretch my eyes, no, no, you have to focus. I know my body got exhausted because it's not my day-to-day timing and it's being stretched.
+
+
+First thing when my body responses. And second is that when I see others, they are leaving and I'm not leaving.
+
+
+Rishu Tech
+Okay.
+
+
+Triveni Deshmukh
+So the second thing, because others, their timing is done, they will leave. And then they will ask, are you joining us?
+
+
+Are you leaving with us? And I said, no, no, I have to sit for a while. Let's sit for a while.
+
+
+Okay. And third is that, okay, if I want to, like, if I want, if I have something extra to implement, if I have anything, idea in my mind, and parallel with the task, I want to work on it.
+
+
+It's like my personal, what to say, contribution to a quote. So that time you like to figure it out.
+
+
+Rishu Tech
+Okay. Now working hours are done.
+
+
+Triveni Deshmukh
+My tasks are almost done. So I want to. to have a like a sneak peek to my idea what I was doing so this okay so now next question is like let's say when do you get away from your desk right so what do you usually do I actually in my team there was a another woman we just were two women and then we used to go for a tea okay and just to like if you have a if we have a good like what to say liberty okay the task are on the same and right means tasks are in sync yeah in this sense she was a tester I was a developer so we don't have a sinking task but we just like if our own parts are going properly then we used to go for nearby places to explore like brave ridges and one thing I remember whenever we used to go like my teammates they were like mostly men in corporate
+
+
+They go for a smoking break, and then they discuss.
+
+
+Rishu Tech
+We don't have that privilege of smoking, because it had to happen.
+
+
+Triveni Deshmukh
+So we just used to go, and she was a married one, I was not, so there was nothing common in between us, rather than womanhood.
+
+
+So we used to go for a food hunt, and walking, like for a walk, and talking to other team members, just to lighten up our mind.
+
+
+And one thing that used to be very, we still get traumatized by, that whenever we used to go outside of this building, to explore different restaurants nearby or something.
+
+
+Our CEO used to be there, nearby smoking the building. Okay, and whenever he used to go for a smoke, we used to be there.
+
+
+And now we, and then we have to like, okay, what to do, we have to go in front of, but thankfully he never.
+
+
+So never and ever said anything about it because I saw you. Maybe tightly he has conveyed to a project manager, but my project manager also never came to us that why you are doing so.
+
+
+Because they also know that just two girls, what can they can do. this was Got it. So let's say like during your any time, like normal workday or something, right?
+
+
+Rishu Tech
+Do you notice any kind of physical discomfort or tightness like that? Anything backbone? Like posture?
+
+
+Triveni Deshmukh
+I got to know that my because whenever my body is in a stretch, used to like, we used to have a like composed structure of our body.
+
+
+Then my like backbone and hump got, and then my legs, legs position changes.
+
+
+Rishu Tech
+Like when I'm okay.
+
+
+Triveni Deshmukh
+And like early morning, like early day of working, working hours, I have a proper posture of a corporate, like legs down and this.
+
+
+Rishu Tech
+And when I see the we
+
+
+Triveni Deshmukh
+Okay, I want to feel comfortable, then I will pull my legs up and then sit and take my legs posture.
+
+
+Rishu Tech
+Okay.
+
+
+Triveni Deshmukh
+And this is my first thing. And then drinking water is one of my signs that I'm in a relaxed mode or I'm in a stress mode.
+
+
+If I'm drinking a very less water, then it's like, okay, I'm very stretched. And sometimes I drink like it is an, it's not.
+
+
+a normal frequency of drinking water. And when I'm in a normal mode, am like, okay, fine, drink it or have it.
+
+
+Rishu Tech
+Okay. So means recently, means anytime you noticed that discomfort and like what you did to overcome it means in a quick span of time.
+
+
+Triveni Deshmukh
+Okay. I, when I understood that, okay, whenever I get stretched, which is more often for a developer. So I do stretching.
+
+
+Neck stretching or like, you know, like, keeping your back bone, like, stretch your back bone like that, so this one, and previously I used to have, like, my sandals on, then I switched to a comfortable footwear, and then after, like, I used to have a socks, okay, and then I left the socks too, like, according to my comfort, I used to be there, like, if it is a very stressful, like, stressful day, I would have a comfort.
+
+
+If I have, like, know this is, so I'll keep a fancy when I know, okay, this is, the day is very comfortable now, so I can do that.
+
+
+Rishu Tech
+So did it affect your productivity by that time, when you were feeling that kind of thing?
+
+
+Triveni Deshmukh
+Some days, like, when I'm, mostly I'm a happy person, okay, so if I don't feel happy, then I'm very, like, even though if a solution is front of me, I'm not able to get it.
+
+
+Thank feel happy. Thanks. Thanks. going So this happens, I mean, sometimes it can happen, right? It can affect your productivity, but not always, got it.
+
+
+So let's say like after, like spending several hours looking into a screen, right?
+
+
+Rishu Tech
+So what do you notice? Like, how about your eyes?
+
+
+Triveni Deshmukh
+Basically, how your eyes feel like tired, dry, you feel some headache or like how it is? Okay, so when, it depends on the day also, like if it is a, like winter, in winter season, a day is very like, actually in Bangalore, within a day, you have a different, different weather.
+
+
+Correct.
+
+
+Rishu Tech
+Okay.
+
+
+Triveni Deshmukh
+So if it is very sunny, you, your eyes might feel very like dry. Okay. And then, um, and in raining time, it's like normal.
+
+
+It's not that, but when you are like stretching or focusing too much, automatically, this one water comes out from your eyes.
+
+
+I won't say tears, but
+
+
+Rishu Tech
+It's a water.
+
+
+Triveni Deshmukh
+You don't know why it is coming, but it is flowing. Okay. And then you just look, you just try to, okay, fine.
+
+
+Rishu Tech
+It's because you have not slept.
+
+
+Triveni Deshmukh
+You try to give a thought that, okay, you might have slept or like this. So basically you are saying like, once you continuously see on your screen, right?
+
+
+Rishu Tech
+So means watery eyes is one factor, like which made you realize that now you need a break. You need to stop seeing screen for some time and then you just move away or something.
+
+
+So what do you exactly do to manage that discomfort?
+
+
+Triveni Deshmukh
+Actually, I continuously do this thing because I know if I'm having watery eyes, it will be for five minutes.
+
+
+No matter what, until and unless my, like, whatever it is a biological thing, it will happen for five minutes.
+
+
+Rishu Tech
+And after five minutes, it automatically gets. Okay.
+
+
+Triveni Deshmukh
+So if I am, I know I need to focus on it. I'll try to like, you know, stretch myself, do the work, do the work.
+
+
+And if. If I am in a comfortable state, and still it is happening, I will ask for like, okay, I want to go, or I will say to my colleagues that I am feeling not good, I need it.
+
+
+Sometimes there were days when I used to have periods, okay, and I used to, like if there is any stretch, stressful, and I need to do a stretch, I try to do, okay, but when I feel that, okay, my body is not taking it, there is a time when you understand your body is not taking it, and it will, it is not a, your home, where you can show extra, you know, extra, what to say, of discomfort, so then I reached out to my project manager, and I say, yeah, I need a break, I want to go back.
+
+
+Rishu Tech
+Got it. So next thing is like, as you already discussed about water, right, so I just wanted to know, like, how you are managing, like, drinking water during your workday?
+
+
+Triveni Deshmukh
+Like, I, I used to, like, within a day, two, three times, I want to. Okay, like anytime you realized like you have not had water for a long time.
+
+
+So like what were you doing at that time and how what made you realize that like mostly when in evenings when I see my water bottle if it is empty when I feel okay I have consumed my proper capacity but I feel that okay it's not I didn't even refill it or I like I didn't went for a refill or still there is a water in it in a full like more than half so you say okay I didn't drink water or all this.
+
+
+Rishu Tech
+Okay so like outside of work how physically active you are let's say let's talk on a typical like week how it looks like.
+
+
+Much much better.
+
+
+Triveni Deshmukh
+Like what you do basically. I go back to my hostel and then I have a small talk with. With my roommates, what happened?
+
+
+What happened? Okay. And then we just make our bed or whatever. And then we go for a walk.
+
+
+Rishu Tech
+Okay. Okay.
+
+
+Triveni Deshmukh
+Because I used to live in HSA, so there are many places. So then my friend, she used to live nearby PG.
+
+
+So I called him. So it is like you have to be a very quick. If I take a time and then I would be sleep and then it would be, I will skip a dinner, everything.
+
+
+But if I'm with my friend, I will go for a walk with And in between we'll have something, small snacks.
+
+
+And then we will come back and then we will have a lunch and I will wash my dishes. Okay.
+
+
+And talk to my parents or my friends. And then it depends. Like if it is a weekend mode, we will go for a club or we will go for a like outing.
+
+
+Rishu Tech
+Okay.
+
+
+Triveni Deshmukh
+And if it is like a weekdays, working weekdays, it's a same schedule. Okay. But on weekdays, So mostly not that much into training kind of thing, but you are trying to maintain it on your weekends time by doing some walk or something like that, right?
+
+
+No, on working days I go for a walk, on weekends I will go for a vacation, like our nearby vacation places, and yeah, like trying to do some badminton stuff with my friends or go for a swim, like that.
+
+
+Okay, good, good.
+
+
+Rishu Tech
+So, one second, where we were, how does, okay, this is done, yeah. So, like, what I wanted to ask, like, have you tried anything, like any kind of tool or app, like to, which will help you like to take breaks, move, stretch, manage screen time, posture, or drinking habits, anything like that?
+
+
+Triveni Deshmukh
+I used to have one in my early days, was, when I was a junior in my first or second company, I guess, we used to have a timer, I installed an extension timer.
+
+
+Rishu Tech
+Okay.
+
+
+Triveni Deshmukh
+So, suppose I want a break, I made my timetable, after lunch, after an hour, will have a drink or refill my water bottle, or at four, I should go for a walk, so that I made it, and it was a timer when it used to come in left side of the monitor, but it made my colleagues feel like, okay, she is having a good time and we are not.
+
+
+So, then they used to poke me or mock me sometimes.
+
+
+Rishu Tech
+So, after that, I reduced the door.
+
+
+Triveni Deshmukh
+Okay.
+
+
+Rishu Tech
+So, like, how do you generally feel, like, about reminders or notifications during your focused work time?
+
+
+Triveni Deshmukh
+I feel that, okay, someone is taking care of me, because sometimes what happens, we don't care, because it feels like we are being selfish if we take care of ourselves within working hours.
+
+
+Rishu Tech
+If it is a stretch full day and still we would.
+
+
+Triveni Deshmukh
+to go for a walk as the same as a routine, then it will feel that, okay, you are not sincere enough or not, you know, honest enough to you with your towards your work.
+
+
+Rishu Tech
+Okay. So anytime like reminder or notification that came up around any bad moment, like abruptly or something. moment was the same when I said to that first or second company experience, second company experience.
+
+
+Triveni Deshmukh
+Whenever I used, first two times they observed, like some of them indirectly observed that, okay, she has a timer.
+
+
+And then whenever they know, like, suppose she has a 3 p.m. of timer. So they purposely come on my desk and look for, okay, what are you doing?
+
+
+And then say, oh, now your timer will appear. Now your timer will appear.
+
+
+Rishu Tech
+So, and it used to appear. Yeah. Okay.
+
+
+Triveni Deshmukh
+And then I'm like, okay, I have set it. Like I have set the timer. So that's why. love love good.
+
+
+love It will appear. But they used to make it project like, okay, she has her own way. She has her own way.
+
+
+Rishu Tech
+Okay, got it. So let's say now if you could change one thing, right, about your work day, like that affects your physical or visual well-being.
+
+
+So what would you try to change?
+
+
+Triveni Deshmukh
+I'll try to change like to do like proper backbone exercise because it affects me a lot. And then second one is, second one would be like my eating habits because I don't, when I'm in working mode, I don't know what I'm eating or what I'm not eating.
+
+
+Like what properly I'm not eating or not. Because some days you feel that, okay, just finish it off or just have some sandwich and that's it rather than having a proper plate or something.
+
+
+Rishu Tech
+Okay. Okay. So now I'll tell you why I did this kind of survey. Okay. So it's a kind, I'll tell you like, it's a concept, which I'm still exploring.
+
+
+Triveni Deshmukh
+So let's imagine a product. Okay.
+
+
+Rishu Tech
+So what it will do, it will quietly support desk workers during their workday. Okay. By suggesting some short movements, mobility, hydration, and even visual break activities.
+
+
+Triveni Deshmukh
+Like as you told, right, you will have watery eyes and all right.
+
+
+Rishu Tech
+So this will be majorly focusing on all these things as a kind of MVP product. So it will be kind of web app next to your system, in your system only, not next to anywhere.
+
+
+It's just in your system. So it won't be kind of every time poking you with reminders. So it will first try to ask you a kind of survey, like what your deep work timings are.
+
+
+Like you can update it on a daily basis as well, if you want, or if you see like any changes are there in a week or so, right?
+
+
+So you can accordingly update that as well. So accordingly, it will get trained and it won't disturb you at that time.
+
+
+So what its task will be. So what it will do is like, it will suggest you some short movements since you're
+
+
+Currently, every time sitting right to a single place, it will try to suggest you some kind of movement in between.
+
+
+Whenever it's required, when it tries to track, like whenever you are sitting more, so it will suggest like, okay, do something little quick.
+
+
+And it will tell you about some mobility exercises as well. Even it will suggest you about your hydration part as well.
+
+
+Like you can go ahead, you can drink water, this much is tracked.
+
+
+Triveni Deshmukh
+So why don't you just have little more to just maintain the continuity like it, right? So it won't be your boss, but it will be more your companion.
+
+
+So that's the whole goal of this product will be, and it will be a kind of web app for now as a MVP, because if I'll, I'm thinking if I'll put it on a mobile application or something, right?
+
+
+So again, it's a kind of, again, a next notification thing, like Mintra or Flipkart, right?
+
+
+Rishu Tech
+How it come, it will come like that. So first, I'm thinking like if it'll be with your web app kind of thing next to your system.
+
+
+So no extension cutting also as of now that you need company rules or something like that, that you have to follow just a normal web app, you can just link log in.
+
+
+There, you'll have your credentials and it will track everything of yours and it will suggest your some suggestions whenever it's required.
+
+
+So what do you think about this idea? Like what's your immediate reaction? Will it help or like how it will be?
+
+
+I think this is a common idea.
+
+
+Triveni Deshmukh
+Everyone is looking for it. Some, some does have their like watches, like in watch, they have the track of your hydration and everything.
+
+
+So, yeah, this is good. But I would say that some of the, like, according to the culture, working culture, if you go this, with this idea in European side, they will appreciate it.
+
+
+Okay. You are focused or you are supporting the wellbeing of employees also. But if you think of Indian culture, it will, they will feel it's a waste of time.
+
+
+Or is it like a show, show off. This is their kind of, they don't entertain such things. They like to have it.
+
+
+Rishu Tech
+So.
+
+
+Triveni Deshmukh
+Take it like it, how much give them more kind of more output for our owner, I would say, like it is good for employee who's using on the laptop, but currently what happens like when mostly in MNC, they don't allow such application to be installed in their desk, like their computer, as I told it won't be an application, it will be a kind of web app thing, like you can just use it next to kind of browser.
+
+
+It needs, what to say, permission from the network of company that, okay, are you able to, like, will you be allowed to access this or not?
+
+
+So this would be like, this is my perspective, even though it's a good for your health, but I would say this is a very common, it doesn't stand out good to our Indian owners.
+
+
+Rishu Tech
+Like, have you seen any kind of this app?
+
+
+Triveni Deshmukh
+The containing all these things which I told, like movement, will suggest you some stretching exercises, if it will tell you about your eye thing.
+
+
+I have heard one of my like test lead, he somehow got one of the fancy smart watches of 60-70,000.
+
+
+It was all of that and there it used to take off as like basic thing was there or like heartbeat, run, walking, water hydration.
+
+
+Okay, BP, sometimes it also used to check for BP too, are you stretch or you need a walk, you need to go out or you need to relax.
+
+
+It was like how much they have slept. Okay, and did they had a deep sleep or like kind of what kind of sleep it used to have and he used to show me in his mobile, he used to have all the charts for it.
+
+
+Got it. So basically whatever you told, right, so now that is available. On a 2k smartwatch as well.
+
+
+Rishu Tech
+Okay, so maybe let me point you again to the focus which this web app will do. So this web app will not go to your day to day life directly, initially, it will come and sit with you as a companion during your desk hours, because desk hours is something like which you are going to spend around eight to nine hours, right sitting there.
+
+
+So during that time, it's going to give you suggestions, it will come up with some animations for you, like you can do this exercise, do that exercise, not a note, not a reminder, nothing like that, just a friendly companion, no worries, no worries, is it enough or we can talk, we can connect after this?
+
+
+Triveni Deshmukh
+Just last two minutes, I'll take that's it.
+
+
+Rishu Tech
+Okay, if it's okay, just two minutes, last thing. Okay, so just I wanted rating on five key things, like let's say movement out of five, how much you think it is important?
+
+
+For you? Four. Eye comfort? Five. Hydration? Four.
+
+
+Triveni Deshmukh
+Posture? Five.
+
+
+Rishu Tech
+Stretching? Five. Okay. Got it. So that's all I had. Thank you so much, Rishu. I hope I didn't. Yeah, I got the context.

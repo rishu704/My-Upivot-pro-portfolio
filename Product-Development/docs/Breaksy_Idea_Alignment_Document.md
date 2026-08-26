@@ -177,5 +177,6 @@ Weekly Active Users who accept at least one Breaksy suggestion per week - target
 **★ SIGN + SEAL**
 
 This is what I'm building for the next 10 weeks.
-Signed: Sneha Patel · Date: 15 Aug 2026 · Presented to: Upivot Pro Batch 1 + Abhik
+
+Signed: Rishu Kumar · Date: 23 Aug 2026 · Presented to: Upivot Pro Batch 1 + Abhik
 

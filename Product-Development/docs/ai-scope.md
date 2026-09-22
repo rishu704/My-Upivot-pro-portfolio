@@ -1,4 +1,4 @@
-# AI Scope Statement — Desk Wellness Nudge App (Simple Version)
+# AI Scope Statement — Desk Wellness Nudge App
 
 ## The one-line summary
 
